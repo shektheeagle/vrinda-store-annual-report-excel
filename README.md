@@ -20,7 +20,7 @@ This project explores sales and order data across different categories, customer
 - Category and channel comparisons
 - Monthly and state-level analysis
 - Charts, filters, and slicers
-- ![Vrinda Store Excel Dashboard](excel%20dashboard.png)
+- ![Vrinda Store Excel Dashboard](excel-dashboard.png)
 
 ## Key Insights
 Add 3–5 findings based on the actual results in the Excel dashboard.
